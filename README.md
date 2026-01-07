@@ -21,6 +21,19 @@ A Python-based command-line task management application with user authentication
 - **Personal Dashboard**: Users can view tasks assigned specifically to them
 - **Statistics Dashboard**: Admins can view system-wide metrics
 
+## Usage
+
+### For Regular Users:
+- **a**: Add new tasks
+- **va**: View all tasks in the system
+- **vm**: View only your assigned tasks
+- **e**: Exit the application
+
+### For Admin Users:
+All regular user options plus:
+- **r**: Register new users
+- **s**: Display system statistics
+
 ## Demo
 
 ### Login Screen
@@ -30,10 +43,9 @@ A Python-based command-line task management application with user authentication
 ![Menu options](assets/menu.png)
 
 ### Registering a new user
-```
+
 <img width="543" height="393" alt="image" src="https://github.com/user-attachments/assets/e712225e-adcf-4db5-8a5b-7378cd68f87b" />
 
-```
 ### Viewing My Tasks
 
 ```
@@ -90,20 +102,6 @@ jane_smith, password2
 ```
 username, task_title, task_description, date_assigned, due_date, status
 ```
-
-## Usage
-
-### For Regular Users:
-- **a**: Add new tasks
-- **va**: View all tasks in the system
-- **vm**: View only your assigned tasks
-- **e**: Exit the application
-
-### For Admin Users:
-All regular user options plus:
-- **r**: Register new users
-- **s**: Display system statistics
-
 ## Requirements
 
 - Python 3.x
@@ -118,10 +116,6 @@ All regular user options plus:
 - [ ] Export reports to CSV
 - [ ] Password encryption
 - [ ] GUI interface
-
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## Author
 
