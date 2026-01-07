@@ -29,7 +29,7 @@ All regular user options plus:
 <img width="198" height="56" alt="image" src="https://github.com/user-attachments/assets/bf07c446-8391-49d8-aea0-4dcf947bf5f4" />
 
 ### Main Menu (Admin View)
-<img src="assets/menu.png" alt="Menu" width="600">
+<img width="308" height="137" alt="image" src="https://github.com/user-attachments/assets/75fd50f4-eb43-4336-b595-a16b8d843255" />
 
 ### Registering a new user
 
