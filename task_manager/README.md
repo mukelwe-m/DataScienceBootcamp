@@ -26,7 +26,7 @@ All regular user options plus:
 ## Demo
 
 ### Login Screen
-![Username prompt](assets/login.png)
+![Login screen](assets/login.png)
 
 ### Main Menu (Admin View)
 ![Menu options](assets/menu.png)
