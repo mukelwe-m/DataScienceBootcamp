@@ -29,7 +29,7 @@ Enter your username: admin
 Enter your password: ****
 Logged In Successfully
 ```
-
+![Username prompt](assets/username.png)
 
 ### Main Menu (Admin View)
 ```
