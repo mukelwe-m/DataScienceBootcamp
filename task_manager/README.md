@@ -26,7 +26,7 @@ All regular user options plus:
 ## Demo
 
 ### Login Screen
-<img src="assets/login.png" alt="Login Page" width="600">
+<img width="198" height="56" alt="image" src="https://github.com/user-attachments/assets/bf07c446-8391-49d8-aea0-4dcf947bf5f4" />
 
 ### Main Menu (Admin View)
 <img src="assets/menu.png" alt="Menu" width="600">
