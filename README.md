@@ -24,24 +24,11 @@ A Python-based command-line task management application with user authentication
 ## Demo
 
 ### Login Screen
-```
-Enter your username: admin
-Enter your password: ****
-Logged In Successfully
-```
 ![Username prompt](assets/username.png)
+![Username prompt](assets/login.png)
 
 ### Main Menu (Admin View)
-```
-Select one of the following options:
-r - register a user 
-s - display statistics 
-a - add task
-va - view all tasks
-vm - view my tasks
-e - exit
-: 
-```
+![Menu options](assets/menu.png)
 
 ### Adding a New Task
 ```
@@ -52,22 +39,12 @@ Describe the task: Write comprehensive README and user guide for the application
 Enter the task's due date(DD-MM-YYYY): 15-02-2026
 Task successfully created!
 ```
+### Viewing My Tasks
 
-### Viewing All Tasks
 ```
-: va
-
-------------------------
-Task Title:     Complete project documentation
-Assigned To:    john_doe
-Due Date:       15-02-2026
-Date Assigned:  2026-01-07
-Status:         No
-Description:
-Write comprehensive README and user guide for the application
-
-------------------------
+: vm
 ```
+<img width="502" height="151" alt="image" src="https://github.com/user-attachments/assets/8e974321-e866-4b78-b00b-608c11e15d48" />
 
 ### Statistics (Admin Only)
 ```
