@@ -26,10 +26,10 @@ All regular user options plus:
 ## Demo
 
 ### Login Screen
-![Login screen](assets/login.png)
+<img src="assets/login.png" alt="Login Page" width="600">
 
 ### Main Menu (Admin View)
-![Menu options](assets/menu.png)
+<img src="assets/menu.png" alt="Menu" width="600">
 
 ### Registering a new user
 
